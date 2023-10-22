@@ -1,0 +1,15 @@
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\bin\Debug\net7.0\kpp_lab1.6C.exe
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\bin\Debug\net7.0\kpp_lab1.6C.deps.json
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\bin\Debug\net7.0\kpp_lab1.6C.runtimeconfig.json
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\bin\Debug\net7.0\kpp_lab1.6C.dll
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\bin\Debug\net7.0\kpp_lab1.6C.pdb
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\obj\Debug\net7.0\kpp_lab1.6C.csproj.AssemblyReference.cache
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\obj\Debug\net7.0\kpp_lab1.6C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\obj\Debug\net7.0\kpp_lab1.6C.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\obj\Debug\net7.0\kpp_lab1.6C.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\obj\Debug\net7.0\kpp_lab1.6C.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\obj\Debug\net7.0\kpp_lab1.6C.dll
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\obj\Debug\net7.0\refint\kpp_lab1.6C.dll
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\obj\Debug\net7.0\kpp_lab1.6C.pdb
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\obj\Debug\net7.0\kpp_lab1.6C.genruntimeconfig.cache
+C:\Users\Nazar\Desktop\lab\kpp_lab1.6C\kpp_lab1.6C\obj\Debug\net7.0\ref\kpp_lab1.6C.dll
